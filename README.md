@@ -1,3 +1,3 @@
 # test-using-git
 
-Noppong trongjitsakul
+Noppong Trongjitsakul(Qty)
